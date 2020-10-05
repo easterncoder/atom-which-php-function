@@ -1,7 +1,7 @@
 {
   "name": "atom-which-php-function",
   "main": "./lib/atom-which-php-function",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Show current PHP function",
   "keywords": [],
   "repository": "https://github.com/easterncoder/atom-which-php-function.git",
