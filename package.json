@@ -1,0 +1,28 @@
+{
+  "name": "atom-which-php-function",
+  "main": "./lib/atom-which-php-function",
+  "version": "0.0.0",
+  "description": "Show current PHP function",
+  "keywords": [],
+  "repository": "https://github.com/easterncoder/atom-which-php-function.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Mike Lopez",
+    "email": "e@mikelopez.com",
+    "url": "https://github.com/easterncoder"
+  },
+  "bugs": {
+    "url": "https://github.com/easterncoder/atom-which-php-function/issues"
+  }
+}
